@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Product documentation, including the roadmap, PRDs, and ADRs, is available in the [product repository](https://github.com/tadbirpro/product#readme).
+Product documentation, including the roadmap, PRDs, and ADRs, is available in the [product repository](https://github.com/tasyirpro/product#readme).
 
 ## Reporting bugs and requesting work
 

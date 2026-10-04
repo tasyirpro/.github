@@ -7,7 +7,7 @@ body:
       value: |
         Please provide enough information to reproduce and verify the problem. Do not include secrets, credentials, or sensitive customer data.
 
-        **Security vulnerabilities must not be reported here.** Follow the private process in [SECURITY.md](https://github.com/tadbirpro/.github/blob/main/SECURITY.md).
+        **Security vulnerabilities must not be reported here.** Follow the private process in [SECURITY.md](https://github.com/tasyirpro/.github/blob/main/SECURITY.md).
 
   - type: checkboxes
     id: existing

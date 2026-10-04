@@ -14,7 +14,7 @@ Closing keywords only take effect when the PR is merged into the repository's de
 Examples:
 - Closes #123
 - Fixes #123
-- Part of tadbirpro/product#42
+- Part of tasyirpro/product#42
 -->
 
 ## Type of Change
